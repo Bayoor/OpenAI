@@ -5,16 +5,16 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="What is GPT-3" text="GPT-3 is a state-of-the-art language processing AI model developed by OpenAI. It uses deep learning to produce human-like text, capable of translation, question-answering, and creative content generation. With 175 billion parameters, it represents one of the most powerful AI systems available today." />
     </div>
     <div className="gpt3__whatgpt3-header">
       <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
       <p>Explore the Library</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-      <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature title="Chatbots" text="Build intelligent conversational agents that understand context and respond naturally to user queries, providing seamless customer support and engagement." />
+      <Feature title="Knowledgebase" text="Create comprehensive knowledge systems that can retrieve and synthesize information from vast datasets, making complex information accessible and understandable." />
+      <Feature title="Education" text="Develop personalized learning experiences with AI-powered tutoring systems that adapt to individual student needs and learning styles." />
     </div>
   </div>
 );

@@ -4,20 +4,20 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Advanced Natural Language Understanding',
+    text: 'GPT-3 comprehends context and nuance in human language, enabling it to generate coherent and contextually relevant responses across diverse topics and industries.',
   },
   {
-    title: 'Become the tended active',
-    text:'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Seamless API Integration',
+    text:'Integrate GPT-3 into your applications effortlessly with our comprehensive API. Build powerful AI features without the need for extensive machine learning expertise.',
   },
   {
-    title: 'Message or am nothing',
-    text:'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Real-Time Content Generation',
+    text:'Generate high-quality content instantly, from articles and emails to code and creative writing, helping you save time and boost productivity.',
   },
   {
-    title: 'Really boy law county',
-    text:'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.',
+    title: 'Customizable Model Training',
+    text:'Fine-tune GPT-3 on your specific data to create tailored AI solutions that understand your unique business needs and industry-specific terminology.',
   },
 ];
 
